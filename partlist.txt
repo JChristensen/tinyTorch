@@ -1,0 +1,37 @@
+Partlist
+
+Exported from tinyTorch.sch at 1/30/2017 7:26 PM
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device                Package                Library  Sheet
+
+B1       2xAA           BATTERY-2AANOHOLES    KEYSTONE-2462-NO-HOLES _jc      1
+C1       10uF           C-USM0805             M0805                  _jc      1
+C2       10uF           C-USM0805             M0805                  _jc      1
+C3       10uF           C-USM0805             M0805                  _jc      1
+C4       100nF          C-USM0805             M0805                  _jc      1
+D1       White          LED5MM-LONGPADS       LED5MM-OVAL            _jc      1
+D2       White          LED5MM-LONGPADS       LED5MM-OVAL            _jc      1
+D3       Red            LED5MM-LONGPADS       LED5MM-OVAL            _jc      1
+D4       Red            LED5MM-LONGPADS       LED5MM-OVAL            _jc      1
+D5       Yellow         LEDD0805A             D0805A                 _jc      1
+ICSP     ICSP           AVR_SPI_PRG_62X3_LOCK 2X3_LOCK               _jc      1
+L1       4.7uH          INDUCTORC1210K        C1210K                 _jc      1
+Q1       FDG6303N       DUAL-MOSFET           SOT363_PHILIPS         _jc      1
+R1       15             R-US_M0805            M0805                  _jc      1
+R2       15             R-US_M0805            M0805                  _jc      1
+R3       65             R-US_M0805            M0805                  _jc      1
+R4       65             R-US_M0805            M0805                  _jc      1
+R5       562K           R-US_M0805            M0805                  _jc      1
+R6       976K           R-US_M0805            M0805                  _jc      1
+R7       220            R-US_M0805            M0805                  _jc      1
+R8       220            R-US_M0805            M0805                  _jc      1
+R9       10K            R-US_M0805            M0805                  _jc      1
+R10      1K             R-US_M0805            M0805                  _jc      1
+S1       DOWN/OFF       10-XXSMT              TACT-SW-SMT            _jc      1
+S2       UP/COLOR       10-XXSMT              TACT-SW-SMT            _jc      1
+U1       MCP1640D       MCP1640               SOT23-6                _jc      1
+U2       ATtiny84A-SSU  ATTINYX4SO14          SO14                   _jc      1

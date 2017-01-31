@@ -131,13 +131,13 @@
 <text x="36" y="30" size="1.4224" layer="21" ratio="16" align="center">DOWN/OFF</text>
 <text x="36" y="2" size="1.4224" layer="21" ratio="16" align="center">UP/COLOR</text>
 <text x="28.5" y="16" size="1.016" layer="21" ratio="16" rot="SR270" align="bottom-center">open source
-goo.gl/abcdefgh</text>
+goo.gl/xpB4pj</text>
 <text x="2" y="29.5" size="1.27" layer="21" ratio="16">tinyTorch v1</text>
 <text x="2" y="27.5" size="1.016" layer="21" ratio="16">CC BY-SA 4.0 jc 0117</text>
 <text x="42" y="16" size="1.6764" layer="22" ratio="16" rot="MR270" align="bottom-center">tinyTorch v1</text>
 <text x="38" y="16.5" size="1.27" layer="22" ratio="16" rot="MR90" align="bottom-center">CC BY-SA 4.0 jc 0117</text>
 <text x="26.5" y="16" size="1.4224" layer="22" ratio="16" rot="SMR90" align="bottom-center">open source
-goo.gl/abcdefgh</text>
+goo.gl/xpB4pj</text>
 </plain>
 <libraries>
 <library name="_jc">
@@ -3884,7 +3884,7 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <attribute name="NAME" x="45.6" y="9.2" size="0.8128" layer="25" ratio="16" rot="SR270"/>
 <attribute name="VALUE" x="46.5" y="8" size="0.8128" layer="27" ratio="16" rot="R90"/>
 </element>
-<element name="U1" library="_jc" package="SOT23-6" value="MCP1640" x="8" y="13" smashed="yes" rot="R90">
+<element name="U1" library="_jc" package="SOT23-6" value="MCP1640D" x="8" y="13" smashed="yes" rot="R90">
 <attribute name="NAME" x="10.5" y="13" size="0.8128" layer="21" ratio="16" rot="SR270"/>
 </element>
 <element name="R6" library="_jc" package="M0805" value="976K" x="3.8" y="13.5" smashed="yes" rot="R90">
@@ -3928,10 +3928,14 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <element name="D3" library="_jc" package="LED5MM-OVAL" value="Red" x="49" y="19.5" smashed="yes" rot="R270">
 <attribute name="NAME" x="48.375" y="15.8334" size="0.8128" layer="25" ratio="16"/>
 <attribute name="VALUE" x="47.1966" y="16.2996" size="1.016" layer="27" ratio="16" rot="R270"/>
+<attribute name="MFR" value="Lite-On" x="49" y="19.5" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR-PART-NO" value="LTL2H3EZ1K" x="49" y="19.5" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="D4" library="_jc" package="LED5MM-OVAL" value="Red" x="49" y="4.5" smashed="yes" rot="R270">
 <attribute name="NAME" x="48.375" y="0.8334" size="0.8128" layer="25" ratio="16"/>
 <attribute name="VALUE" x="47.1966" y="1.2996" size="1.016" layer="27" ratio="16" rot="R270"/>
+<attribute name="MFR" value="Lite-On" x="49" y="4.5" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR-PART-NO" value="LTL2H3EZ1K" x="49" y="4.5" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="R1" library="_jc" package="M0805" value="15" x="44" y="27" smashed="yes" rot="R90">
 <attribute name="NAME" x="41.7" y="26.3" size="0.8128" layer="25" ratio="16" rot="SR270"/>
@@ -3978,10 +3982,14 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <element name="S1" library="_jc" package="TACT-SW-SMT" value="DOWN/OFF" x="36" y="25" smashed="yes" rot="R180">
 <attribute name="NAME" x="36" y="25" size="1.016" layer="25" ratio="16" rot="R180" align="center"/>
 <attribute name="VALUE" x="36.508" y="28.81" size="1.016" layer="27" ratio="16" rot="R180" align="center"/>
+<attribute name="MFR" value="Omron" x="36" y="25" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFR-PART-NO" value="B3FS-1000" x="36" y="25" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="S2" library="_jc" package="TACT-SW-SMT" value="UP/COLOR" x="36" y="7" smashed="yes">
 <attribute name="NAME" x="36" y="7" size="1.016" layer="25" ratio="16" align="center"/>
 <attribute name="VALUE" x="35.492" y="3.19" size="1.016" layer="27" ratio="16" align="center"/>
+<attribute name="MFR" value="Omron" x="36" y="7" size="1.778" layer="27" display="off"/>
+<attribute name="MFR-PART-NO" value="B3FS-1000" x="36" y="7" size="1.778" layer="27" display="off"/>
 </element>
 <element name="LOGO1" library="ohw-logo" package="OSHW_8X150_NOTEXT" value="OSHW_LOGO_8MILX0150-NT" x="31.5" y="18" smashed="yes" rot="R270"/>
 <element name="R10" library="_jc" package="M0805" value="1K" x="25.5" y="8.5" smashed="yes" rot="R270">
@@ -4148,13 +4156,12 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <signal name="N$9">
 <contactref element="D2" pad="K"/>
 <contactref element="R2" pad="2"/>
-<wire x1="46" y1="17" x2="44.5" y2="18.5" width="0.3048" layer="16"/>
 <via x="44.5" y="18.5" extent="1-16" drill="0.6"/>
 <wire x1="44.5" y1="18.5" x2="44.5" y2="20.05" width="0.3048" layer="1"/>
 <wire x1="44.5" y1="20.05" x2="44" y2="20.55" width="0.3048" layer="1"/>
-<wire x1="46" y1="17" x2="46" y2="11.7" width="0.3048" layer="16"/>
-<wire x1="46" y1="11.7" x2="47" y2="10.7" width="0.3048" layer="16"/>
-<wire x1="47" y1="10.7" x2="48.97" y2="10.7" width="0.3048" layer="16"/>
+<wire x1="46.8" y1="10.7" x2="44.5" y2="13" width="0.3048" layer="16"/>
+<wire x1="44.5" y1="13" x2="44.5" y2="18.5" width="0.3048" layer="16"/>
+<wire x1="46.8" y1="10.7" x2="48.97" y2="10.7" width="0.3048" layer="16"/>
 <wire x1="48.97" y1="10.7" x2="49" y2="10.73" width="0.3048" layer="16"/>
 </signal>
 <signal name="N$10">

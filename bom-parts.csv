@@ -1,0 +1,32 @@
+Partlist exported from C:/Users/Jack/Documents/eagle/projects/tinyTorch/tinyTorch.sch at 1/30/2017 7:26 PM
+
+Part  Value                   Device                  Package                Description                     MFR         MFR-PART-NO       
+B1    2xAA                    BATTERY-2AANOHOLES      KEYSTONE-2462-NO-HOLES                                 Keystone    2462              
+C1    10uF                    C-USM0805               M0805                  CAPACITOR, American symbol                                    
+C2    10uF                    C-USM0805               M0805                  CAPACITOR, American symbol                                    
+C3    10uF                    C-USM0805               M0805                  CAPACITOR, American symbol                                    
+C4    100nF                   C-USM0805               M0805                  CAPACITOR, American symbol                                    
+D1    White                   LED5MM-LONGPADS         LED5MM-OVAL            LED                             Cree        C503D-WAN-CCBEB151
+D2    White                   LED5MM-LONGPADS         LED5MM-OVAL            LED                             Cree        C503D-WAN-CCBEB151
+D3    Red                     LED5MM-LONGPADS         LED5MM-OVAL            LED                             Lite-On     LTL2H3EZ1K        
+D4    Red                     LED5MM-LONGPADS         LED5MM-OVAL            LED                             Lite-On     LTL2H3EZ1K        
+D5    Yellow                  LEDD0805A               D0805A                 LED                             Lite-On     LTST-C171KYKT     
+ICSP  ICSP                    AVR_SPI_PRG_62X3_LOCK   2X3_LOCK               AVR ISP 6 Pin                                                 
+L1    4.7uH                   INDUCTORC1210K          C1210K                 Murata #11R472C                 Taiyo Yuden CBC3225T4R7MR     
+LOGO1 OSHW_LOGO_8MILX0150-NT  OSHW_LOGO_8MILX0150-NT  OSHW_8X150_NOTEXT                                                                    
+LOGO2 OSHW_LOGO_10MILX0200-NT OSHW_LOGO_10MILX0200-NT OSHW_10X200_NOTEXT                                                                   
+Q1    FDG6303N                DUAL-MOSFET             SOT363_PHILIPS         e.g. Fairchild/ON Semi FDG6303N                               
+R1    15                      R-US_M0805              M0805                  RESISTOR, American symbol                                     
+R2    15                      R-US_M0805              M0805                  RESISTOR, American symbol                                     
+R3    65                      R-US_M0805              M0805                  RESISTOR, American symbol                                     
+R4    65                      R-US_M0805              M0805                  RESISTOR, American symbol                                     
+R5    562K                    R-US_M0805              M0805                  RESISTOR, American symbol                                     
+R6    976K                    R-US_M0805              M0805                  RESISTOR, American symbol                                     
+R7    220                     R-US_M0805              M0805                  RESISTOR, American symbol                                     
+R8    220                     R-US_M0805              M0805                  RESISTOR, American symbol                                     
+R9    10K                     R-US_M0805              M0805                  RESISTOR, American symbol                                     
+R10   1K                      R-US_M0805              M0805                  RESISTOR, American symbol                                     
+S1    DOWN/OFF                10-XXSMT                TACT-SW-SMT            OMRON SWITCH                    Omron       B3FS-1000         
+S2    UP/COLOR                10-XXSMT                TACT-SW-SMT            OMRON SWITCH                    Omron       B3FS-1000         
+U1    MCP1640D                MCP1640                 SOT23-6                                                                              
+U2    ATtiny84A-SSU           ATTINYX4SO14            SO14                                                                                 

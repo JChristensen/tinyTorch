@@ -8,20 +8,20 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -30,8 +30,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -39,16 +39,16 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -33448,7 +33448,7 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="R2" library="_jc" deviceset="R-US_" device="M0805" value="15"/>
 <part name="R3" library="_jc" deviceset="R-US_" device="M0805" value="65"/>
-<part name="U1" library="_jc" deviceset="MCP1640" device="" value="MCP1640"/>
+<part name="U1" library="_jc" deviceset="MCP1640" device="" value="MCP1640D"/>
 <part name="R6" library="_jc" deviceset="R-US_" device="M0805" value="976K"/>
 <part name="R5" library="_jc" deviceset="R-US_" device="M0805" value="562K"/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
@@ -33474,8 +33474,14 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 <attribute name="MFR" value="Cree"/>
 <attribute name="MFR-PART-NO" value="C503D-WAN-CCBEB151"/>
 </part>
-<part name="D3" library="_jc" deviceset="LED" device="5MM-LONGPADS" value="Red"/>
-<part name="D4" library="_jc" deviceset="LED" device="5MM-LONGPADS" value="Red"/>
+<part name="D3" library="_jc" deviceset="LED" device="5MM-LONGPADS" value="Red">
+<attribute name="MFR" value="Lite-On"/>
+<attribute name="MFR-PART-NO" value="LTL2H3EZ1K"/>
+</part>
+<part name="D4" library="_jc" deviceset="LED" device="5MM-LONGPADS" value="Red">
+<attribute name="MFR" value="Lite-On"/>
+<attribute name="MFR-PART-NO" value="LTL2H3EZ1K"/>
+</part>
 <part name="R1" library="_jc" deviceset="R-US_" device="M0805" value="15"/>
 <part name="R4" library="_jc" deviceset="R-US_" device="M0805" value="65"/>
 <part name="P+1" library="supply1" deviceset="VCC" device="" value="Vcc"/>
@@ -33495,8 +33501,14 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 <part name="C4" library="_jc" deviceset="C-US" device="M0805" value="100nF"/>
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
-<part name="S1" library="_jc" deviceset="10-XX" device="SMT" value="DOWN/OFF"/>
-<part name="S2" library="_jc" deviceset="10-XX" device="SMT" value="UP/COLOR"/>
+<part name="S1" library="_jc" deviceset="10-XX" device="SMT" value="DOWN/OFF">
+<attribute name="MFR" value="Omron"/>
+<attribute name="MFR-PART-NO" value="B3FS-1000"/>
+</part>
+<part name="S2" library="_jc" deviceset="10-XX" device="SMT" value="UP/COLOR">
+<attribute name="MFR" value="Omron"/>
+<attribute name="MFR-PART-NO" value="B3FS-1000"/>
+</part>
 <part name="LOGO1" library="ohw-logo" deviceset="OSHW_LOGO_8MIL" device="X0150-NT" value="OSHW_LOGO_8MILX0150-NT"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="R10" library="_jc" deviceset="R-US_" device="M0805" value="1K"/>
@@ -33510,9 +33522,12 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 <sheets>
 <sheet>
 <plain>
-<text x="17.78" y="5.08" size="2.54" layer="94" ratio="10">LED PWM Fire Effect by Jack Christensen is licensed
+<text x="17.78" y="5.08" size="2.54" layer="94" ratio="10">"tinyTorch" by Jack Christensen is licensed
 under CC BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/                       </text>
 <text x="17.78" y="15.24" size="3.81" layer="94" ratio="12">CC BY-SA</text>
+<text x="175.768" y="29.718" size="3.81" layer="94" ratio="12">tinyTorch</text>
+<text x="175.768" y="24.638" size="2.54" layer="94" ratio="12">by Jack Christensen</text>
+<text x="262.128" y="6.858" size="2.54" layer="94" ratio="12">v1</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
@@ -33583,10 +33598,14 @@ under CC BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/               
 <instance part="D3" gate="G$1" x="55.88" y="134.62" smashed="yes">
 <attribute name="NAME" x="54.356" y="127.508" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="53.975" y="135.128" size="1.778" layer="96" rot="R90"/>
+<attribute name="MFR" x="55.88" y="134.62" size="1.778" layer="96" display="off"/>
+<attribute name="MFR-PART-NO" x="55.88" y="134.62" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="D4" gate="G$1" x="63.5" y="134.62" smashed="yes">
 <attribute name="NAME" x="61.976" y="127.508" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="61.595" y="135.128" size="1.778" layer="96" rot="R90"/>
+<attribute name="MFR" x="63.5" y="134.62" size="1.778" layer="96" display="off"/>
+<attribute name="MFR-PART-NO" x="63.5" y="134.62" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R1" gate="G$1" x="40.64" y="121.92" rot="R90"/>
 <instance part="R4" gate="G$1" x="63.5" y="121.92" rot="R90"/>
@@ -33626,8 +33645,14 @@ under CC BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/               
 <instance part="GND14" gate="1" x="109.22" y="101.6" smashed="yes">
 <attribute name="VALUE" x="106.68" y="99.06" size="1.778" layer="96"/>
 </instance>
-<instance part="S1" gate="1" x="203.2" y="111.76"/>
-<instance part="S2" gate="1" x="190.5" y="111.76"/>
+<instance part="S1" gate="1" x="203.2" y="111.76">
+<attribute name="MFR" x="203.2" y="111.76" size="1.778" layer="96" display="off"/>
+<attribute name="MFR-PART-NO" x="203.2" y="111.76" size="1.778" layer="96" display="off"/>
+</instance>
+<instance part="S2" gate="1" x="190.5" y="111.76">
+<attribute name="MFR" x="190.5" y="111.76" size="1.778" layer="96" display="off"/>
+<attribute name="MFR-PART-NO" x="190.5" y="111.76" size="1.778" layer="96" display="off"/>
+</instance>
 <instance part="LOGO1" gate="G$1" x="55.88" y="17.78"/>
 <instance part="GND2" gate="1" x="203.2" y="101.6" smashed="yes">
 <attribute name="VALUE" x="200.66" y="99.06" size="1.778" layer="96"/>
