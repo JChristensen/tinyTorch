@@ -33447,7 +33447,7 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 <part name="FRAME1" library="frames" deviceset="FRAME_A_L" device="" value="frame"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="R2" library="_jc" deviceset="R-US_" device="M0805" value="15"/>
-<part name="R3" library="_jc" deviceset="R-US_" device="M0805" value="65"/>
+<part name="R3" library="_jc" deviceset="R-US_" device="M0805" value="62"/>
 <part name="U1" library="_jc" deviceset="MCP1640" device="" value="MCP1640D"/>
 <part name="R6" library="_jc" deviceset="R-US_" device="M0805" value="976K"/>
 <part name="R5" library="_jc" deviceset="R-US_" device="M0805" value="562K"/>
@@ -33483,7 +33483,7 @@ This is the reduced ISP connector for AVR programming. Common on Arduino. This f
 <attribute name="MFR-PART-NO" value="LTL2H3EZ1K"/>
 </part>
 <part name="R1" library="_jc" deviceset="R-US_" device="M0805" value="15"/>
-<part name="R4" library="_jc" deviceset="R-US_" device="M0805" value="65"/>
+<part name="R4" library="_jc" deviceset="R-US_" device="M0805" value="62"/>
 <part name="P+1" library="supply1" deviceset="VCC" device="" value="Vcc"/>
 <part name="B1" library="_jc" deviceset="BATTERY-2AA" device="NOHOLES" value="2xAA">
 <attribute name="MFR" value="Keystone"/>

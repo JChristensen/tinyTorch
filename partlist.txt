@@ -1,6 +1,6 @@
 Partlist
 
-Exported from tinyTorch.sch at 1/30/2017 7:26 PM
+Exported from tinyTorch.sch at 1/31/2017 7:13 AM
 
 EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
 
@@ -23,8 +23,8 @@ L1       4.7uH          INDUCTORC1210K        C1210K                 _jc      1
 Q1       FDG6303N       DUAL-MOSFET           SOT363_PHILIPS         _jc      1
 R1       15             R-US_M0805            M0805                  _jc      1
 R2       15             R-US_M0805            M0805                  _jc      1
-R3       65             R-US_M0805            M0805                  _jc      1
-R4       65             R-US_M0805            M0805                  _jc      1
+R3       62             R-US_M0805            M0805                  _jc      1
+R4       62             R-US_M0805            M0805                  _jc      1
 R5       562K           R-US_M0805            M0805                  _jc      1
 R6       976K           R-US_M0805            M0805                  _jc      1
 R7       220            R-US_M0805            M0805                  _jc      1
