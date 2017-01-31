@@ -28,5 +28,6 @@
 *.xlsx
 Thumbs.db
 !board.png
+!board-sm.png
 !schematic.png
 !partList.txt
