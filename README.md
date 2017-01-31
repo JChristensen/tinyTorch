@@ -39,6 +39,4 @@ When the battery is exhausted, **tinyTorch** will blink the red and white LEDs a
 ## CC BY-SA ##
 "tinyTorch" by Jack Christensen is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
-![](https://raw.githubusercontent.com/JChristensen/ledFire_HW/master/board1.jpg)
-  
-![](https://raw.githubusercontent.com/JChristensen/ledFire_HW/master/board2.jpg)
+![](https://github.com/JChristensen/tinyTorch/raw/master/board-sm.png)
