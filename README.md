@@ -12,7 +12,7 @@ Jack Christensen Jan-2017
 
 [Hardware design](https://github.com/JChristensen/tinyTorch) and [firmware](https://github.com/JChristensen/tinyTorch-fw) are available on GitHub.  
 PC boards can be ordered from [OSH Park](https://www.oshpark.com/shared_projects/xy6vIOX3).  
-A bill of materials is available at [Mouser Electronics](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=e556f7b439) and also as part of this repo.
+A bill of materials is available at [Mouser Electronics](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=e556f7b439) and also in the [hardware repo](https://github.com/JChristensen/tinyTorch).
 
 ## Operation ##
 
@@ -36,4 +36,4 @@ When the batteries are exhausted, **tinyTorch** will blink the red and white LED
 ## CC BY-SA ##
 "tinyTorch" by Jack Christensen is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-![](https://github.com/JChristensen/tinyTorch/raw/master/board-sm.png)
+![](https://github.com/JChristensen/tinyTorch/raw/master/board-photo.png)
