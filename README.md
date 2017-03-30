@@ -11,7 +11,7 @@ Jack Christensen Jan-2017
 **tinyTorch** runs on two AA cells. Any type will work, including alkaline, standard carbon/zinc or rechargeable types (NiMH, NiCd). A boost regulator keeps the supply voltage and therefore the LED brightness constant as the batteries age. Because of the boost circuit, **tinyTorch** can run on batteries that will no longer power other devices, more nearly extracting all the energy available from the batteries. The microcontroller monitors the voltage and automatically shuts the circuit off when the batteries are exhausted to prevent leakage.
 
 [Hardware design](https://github.com/JChristensen/tinyTorch) and [firmware](https://github.com/JChristensen/tinyTorch-fw) are available on GitHub.  
-PC boards can be ordered from [OSH Park](https://www.oshpark.com/shared_projects/xy6vIOX3).  
+PC boards can be ordered from [OSH Park](https://www.oshpark.com/shared_projects/fUhQEilO).  
 A bill of materials is available at [Mouser Electronics](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=e556f7b439) and also in the [hardware repo](https://github.com/JChristensen/tinyTorch).
 
 ## Operation ##

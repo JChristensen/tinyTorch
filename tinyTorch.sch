@@ -33527,7 +33527,7 @@ under CC BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/               
 <text x="17.78" y="15.24" size="3.81" layer="94" ratio="12">CC BY-SA</text>
 <text x="175.768" y="29.718" size="3.81" layer="94" ratio="12">tinyTorch</text>
 <text x="175.768" y="24.638" size="2.54" layer="94" ratio="12">by Jack Christensen</text>
-<text x="262.128" y="6.858" size="2.54" layer="94" ratio="12">v1</text>
+<text x="262.128" y="6.858" size="2.54" layer="94" ratio="12">v1.1</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
